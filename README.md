@@ -25,11 +25,11 @@ GenQ is an innovative PDF analysis tool designed to revolutionize study material
 Here’s how the app looks in action:  
 
 <div style="display: flex; gap: 10px;">
-  <img src="Images//genQ-1.png" width="250">
-  <img src="Images//genQ-2.png" width="250">
-  <img src="Images//genQ-3.png" width="250">
-  <img src="Images//genQ-4.png" width="250">
-  <img src="Images//genQ-5.png" width="250">
+  <img src="Images//genQ-1.png" width="300">
+  <img src="Images//genQ-2.png" width="300">
+  <img src="Images//genQ-3.png" width="300">
+  <img src="Images//genQ-4.png" width="300">
+  <img src="Images//genQ-5.png" width="300">
 </div>
 
 ## Installation
